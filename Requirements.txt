@@ -1,0 +1,6 @@
+Flask
+requests
+ratelimit
+beautifulsoup4
+nltk
+scikit-learn
